@@ -1,0 +1,17 @@
+body{
+    background-color: lightgrey
+}
+#first{
+    background-color: blanchedalmond;
+    margin: 2% auto;
+    height: 30%;
+    width: 80;
+}
+#second{
+    background-color: lightblue;
+    margin: 2% auto;
+    height: 90%;
+    width: 80;
+}
+#map { 
+    height: 180px; }
